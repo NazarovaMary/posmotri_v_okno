@@ -15,6 +15,6 @@ html-страница сайта (<a href="https://github.com/MGKrupkina/posmotr
 автотесты (<a href="https://github.com/MGKrupkina/posmotri_v_okno/blob/main/.github/workflows/tests.yml" target="_blank">tests.yml</a>)
 
 
-Макет:
+<a href="https://www.figma.com/file/QHcvX1RsUI89CulRB7HLk6/%234-Посмотри-в-окно?type=design&mode=design" target="_blank">Макет (перейти по ссылке)</a>
 
 ![screenshot_desktop](https://github.com/MGKrupkina/posmotri_v_okno/assets/145542673/5a1ca871-e8f7-466d-86c8-cb264fcaddab)
