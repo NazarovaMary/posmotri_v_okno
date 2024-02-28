@@ -6,11 +6,13 @@
 
 html-страница сайта (<a href="https://github.com/MGKrupkina/posmotri_v_okno/blob/main/index.html" target="_blank">index.html</a>)
 
+стили (<a href="https://github.com/MGKrupkina/posmotri_v_okno/tree/main/styles" target="_blank">styles</a>)
+
+скрипт (<a href="https://github.com/MGKrupkina/posmotri_v_okno/blob/main/scripts/script.js" target="_blank">script.js</a>)
+
 шрифты (<a href="https://github.com/MGKrupkina/posmotri_v_okno/tree/main/fonts" target="_blank">fonts</a>)
 
 изображения (<a href="https://github.com/MGKrupkina/ono-tebe-nado/tree/main/images" target="_blank">images</a>)
-
-скрипт (<a href="https://github.com/MGKrupkina/posmotri_v_okno/blob/main/scripts/script.js" target="_blank">script.js</a>)
 
 автотесты (<a href="https://github.com/MGKrupkina/posmotri_v_okno/blob/main/.github/workflows/tests.yml" target="_blank">tests.yml</a>)
 
